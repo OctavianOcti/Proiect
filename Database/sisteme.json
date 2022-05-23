@@ -1,0 +1,18 @@
+[
+  {
+    "familie": "Laptop",
+    "nume": "Laptop Gaming",
+    "pret": 3200.0,
+    "cantitate_inventar": 34,
+    "cantitate_livrata": 0,
+    "cantitate_comandata": 11
+  },
+  {
+    "familie": "Monitor",
+    "nume": "Samsung",
+    "pret": 900.0,
+    "cantitate_inventar": 40,
+    "cantitate_livrata": 0,
+    "cantitate_comandata": 5
+  }
+]

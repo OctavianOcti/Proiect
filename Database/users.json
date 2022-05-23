@@ -1,0 +1,27 @@
+[{
+	"nume" : "Tavi Furdui", 
+	
+ 	"email" : "taviamv@gmail.com",
+	
+ 	"parola" : "1234",
+ 	
+ 	"rol" : "admin"
+},
+{
+	"nume" : "user", 
+	
+ 	"email" : "user@gmail.com",
+	
+ 	"parola" : "1234",
+ 	
+ 	"rol" : "user"
+},
+{
+	"nume" : "curier", 
+	
+ 	"email" : "curier@gmail.com",
+	
+ 	"parola" : "1234",
+ 	
+ 	"rol" : "curier"
+}]

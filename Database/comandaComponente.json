@@ -1,0 +1,49 @@
+[{
+	"nume" : "Placa de baza", 
+	
+ 	"furnizor" : "Hewlett-Packard",
+ 	
+ 	"pret": 229.99
+},
+{
+	"nume" : "Microprocesor", 
+	
+ 	"furnizor" : "Hewlett-Packard",
+ 	
+ 	"pret": 119.99
+},
+{
+	"nume" : "HDD", 
+	
+ 	"furnizor" : "Hewlett-Packard",
+ 	
+ 	"pret": 200.00
+},
+{
+	"nume" : "Monitor", 
+	
+ 	"furnizor" : "Samsung",
+ 	
+ 	"pret": 699.99
+},
+{
+	"nume" : "Monitor", 
+	
+ 	"furnizor" : "Lenovo",
+ 	
+ 	"pret": 489.99
+},
+{
+	"nume" : "Monitor", 
+	
+ 	"furnizor" : "Samsung",
+ 	
+ 	"pret": 749.99
+},
+{
+	"nume" : "Monitor", 
+	
+ 	"furnizor" : "Lenovo",
+ 	
+ 	"pret": 519.99
+}]
